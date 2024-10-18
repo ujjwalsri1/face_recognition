@@ -1,12 +1,9 @@
-﻿aiofiles==23.2.1
-aiohttp==3.8.5
-Babel==2.14.0
+
 Flask==2.2.2
 python==3.9.0
 scikit-image==0.19.3
 scikit-learn==1.2.2
 Werkzeug==2.2.2
-tensorflow==2.12.0
 pandas==2.0.3
 cv==1.0.0
 opencv-contrib-python==4.8.0.76
