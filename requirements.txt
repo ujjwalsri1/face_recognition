@@ -44,7 +44,6 @@ charset-normalizer==2.1.1
 chess==1.10.0
 cleo==2.0.1
 click==8.0.4
-clip @ git+https://github.com/openai/CLIP.git@a1d071733d7111c9c014f024669f959182114e33
 cloudpickle==3.0.0
 clr-loader==0.2.6
 cmake==3.24.2
@@ -159,12 +158,7 @@ jupyterlab_widgets==3.0.10
 keras==2.13.1
 keyboard==0.13.5
 keyring==24.2.0
-Kivy==2.1.0
-kivy-deps.glew==0.3.1
-kivy-deps.gstreamer==0.3.3
-kivy-deps.sdl2==0.4.5
-Kivy-Garden==0.1.5
-kivymd==1.1.1
+
 kiwisolver==1.4.4
 Lazify==0.4.0
 lazy_loader==0.4
@@ -190,7 +184,7 @@ msgpack==1.0.5
 mss==7.0.1
 multidict==6.0.4
 mypy-extensions==1.0.0
-mysql-connector-python==8.0.23
+
 nbclient==0.10.0
 nbconvert==7.16.3
 nbformat==5.10.3
@@ -201,5 +195,13 @@ notebook==7.1.2
 notebook_shim==0.2.4
 numba==0.59.1
 numpy==1.23.5
-oauthlib==3.2.2
-openai==0
+python-dotenv==1.0.0
+Flask==2.2.2
+python==3.9.0
+scikit-image==0.19.3
+scikit-learn==1.2.2
+Werkzeug==2.2.2
+pandas==2.0.3
+pillow==10.3.0
+pipenv==2020.11.15
+tensorflow==2.12.0
